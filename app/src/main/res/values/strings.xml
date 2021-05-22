@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Playlist App</string>
+    <string name="txtSongTitleOne">Play Dubstep by Anton Vlasov</string>
+    <string name="txtSongTitleTwo">Play Once Again by Elenamiv</string>
+    <string name="txtSongTitleThree">Play Popdance by Roman Striga</string>
+    <string name="txtPlaySong">Play Song</string>
+    <string name="txtPauseSong">Pause Song</string>
+    <string name="description">Showing Artist Image</string>
+</resources>
